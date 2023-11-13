@@ -1,0 +1,1 @@
+## Simple AI ChatBot using Flask for the App and ChatGPT Chat Completion API to make requests
